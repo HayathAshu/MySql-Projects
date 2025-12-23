@@ -123,3 +123,14 @@ This design ensures **data integrity and scalable analytics**.
 - Funnel analysis logic
 - Conversion rate calculation
 - Fact & dimension table modeling
+
+---
+
+## 📎 Reference
+- Official Case Study: https://8weeksqlchallenge.com/case-study-6/
+
+---
+
+## 👤 Author
+**Mohammed Hayath RK**  
+SQL | Data Analytics | MySQL
