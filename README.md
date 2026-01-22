@@ -12,17 +12,6 @@ This repository contains multiple MySQL projects that demonstrate real-world dat
 
 The goal of this repo is to help learners understand relational database fundamentals using MySQL.
 
-## 📂 Projects Included
-
-### ✅ 8-Week SQL Challenge  
-*Brief description:* A set of weekly SQL tasks/exercises to progressively build your SQL skills.
-
-### ✈️ Airline Reservation System  
-*Brief description:* A sample database and queries simulating flight bookings, customers, and airline operations.
-
-### 🏥 Clinic Trial  
-*Brief description:* A database scenario representing a medical clinic, trial records, patient data, and queries for analysis.
-
 ## 📌 Technologies
 
 This repository uses:
