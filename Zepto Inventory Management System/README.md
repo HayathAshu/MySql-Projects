@@ -1,4 +1,4 @@
-# Zepto Inventory Management – MySQL Project
+# 🛒Zepto Inventory Management – MySQL Project
 
 ## 📌 Project Overview
 This project is a **MySQL-based inventory management analysis** built using the **Zepto Inventory Dataset** from Kaggle.  
